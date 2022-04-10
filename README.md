@@ -1,4 +1,4 @@
-# SRIP-Task-1
+# SRIP-Task
 
 Animate bivariate normal distribution.
 
