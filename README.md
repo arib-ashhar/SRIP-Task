@@ -5,7 +5,6 @@ Animate bivariate normal distribution.
 The first task is in the file Bivariate_normal_distribution.ipnyb
 
 ### Dependencies
-Markup: 
 * Matplotlib
 * Numpy
 * Jax
