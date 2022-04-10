@@ -22,7 +22,7 @@ The sample dataset is quite large so whenevver you change any of the variables v
 
 ##### when the value for rho was taken 0.93 following graph was generated
 
-![result_1](https://raw.githubusercontent.com/arib-ashhar/SRIP-Task/main/Task-1/result_images/rho-0.jpg)
+![result_1](https://raw.githubusercontent.com/arib-ashhar/SRIP-Task/main/Task-1/result_images/rho-93.jpg)
 
 #### when the value for rho was taken 0.0 following graph was generated
 
