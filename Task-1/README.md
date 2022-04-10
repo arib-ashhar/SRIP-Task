@@ -14,5 +14,13 @@ The first task is in the file Bivariate_normal_distribution.ipnyb
 
 You need to install all these libraries first either using pip or anaconda
 
+### Execution
 
+The sample dataset is quite large so whenevver you change any of the variables value using slider widgets wait for couple minutes for the changes to be reflected in the graph.
+
+### Results
+
+when the value for rho was taken 0.93 following graph was generated
+
+![](/result_images/rho-93.jpg)
 
