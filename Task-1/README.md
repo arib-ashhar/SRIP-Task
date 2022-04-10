@@ -32,7 +32,11 @@ The sample dataset is quite large so whenevver you change any of the variables v
 ### Refrences
 
 [1] https://online.stat.psu.edu/stat505/lesson/4/4.2
+
 [2] https://mathworld.wolfram.com/BivariateNormalDistribution.html
+
 [3] https://www.youtube.com/watch?v=eKr5Mvx9xek
+
 [4] https://www.youtube.com/watch?v=KCIBiF0UG5g
+
 [5] https://towardsdatascience.com/exploring-normal-distribution-with-jupyter-notebook-3645ec2d83f8
