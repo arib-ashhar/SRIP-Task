@@ -1,6 +1,4 @@
-# SRIP-Task-1
-
-Animate bivariate normal distribution.
+# Animate bivariate normal distribution.
 
 The first task is in the file Bivariate_normal_distribution.ipnyb
 
